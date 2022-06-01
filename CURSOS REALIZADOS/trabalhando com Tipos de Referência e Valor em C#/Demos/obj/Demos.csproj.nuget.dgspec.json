@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\workspace\\dio-desafio-github\\CURSOS REALIZADOS\\trabalhando com Tipos de Referência e Valor em C#\\trabalhando com Tipos de Referência e Valor em C#.csproj": {}
+    "C:\\workspace\\dio-desafio-github\\CURSOS REALIZADOS\\trabalhando com Tipos de Referência e Valor em C#\\Demos\\Demos.csproj": {}
   },
   "projects": {
-    "c:\\workspace\\dio-desafio-github\\CURSOS REALIZADOS\\trabalhando com Tipos de Referência e Valor em C#\\trabalhando com Tipos de Referência e Valor em C#.csproj": {
+    "C:\\workspace\\dio-desafio-github\\CURSOS REALIZADOS\\trabalhando com Tipos de Referência e Valor em C#\\Demos\\Demos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\workspace\\dio-desafio-github\\CURSOS REALIZADOS\\trabalhando com Tipos de Referência e Valor em C#\\trabalhando com Tipos de Referência e Valor em C#.csproj",
-        "projectName": "trabalhando com Tipos de Referência e Valor em C#",
-        "projectPath": "c:\\workspace\\dio-desafio-github\\CURSOS REALIZADOS\\trabalhando com Tipos de Referência e Valor em C#\\trabalhando com Tipos de Referência e Valor em C#.csproj",
+        "projectUniqueName": "C:\\workspace\\dio-desafio-github\\CURSOS REALIZADOS\\trabalhando com Tipos de Referência e Valor em C#\\Demos\\Demos.csproj",
+        "projectName": "Demos",
+        "projectPath": "C:\\workspace\\dio-desafio-github\\CURSOS REALIZADOS\\trabalhando com Tipos de Referência e Valor em C#\\Demos\\Demos.csproj",
         "packagesPath": "C:\\Users\\vaden\\.nuget\\packages\\",
-        "outputPath": "c:\\workspace\\dio-desafio-github\\CURSOS REALIZADOS\\trabalhando com Tipos de Referência e Valor em C#\\obj\\",
+        "outputPath": "C:\\workspace\\dio-desafio-github\\CURSOS REALIZADOS\\trabalhando com Tipos de Referência e Valor em C#\\Demos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vaden\\AppData\\Roaming\\NuGet\\NuGet.Config"

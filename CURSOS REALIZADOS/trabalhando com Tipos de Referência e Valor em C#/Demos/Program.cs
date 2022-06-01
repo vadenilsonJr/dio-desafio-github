@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace trabalhando_com_Tipos_de_Referência_e_Valor_em_C_
+namespace Demos
 {
     class Program
     {
