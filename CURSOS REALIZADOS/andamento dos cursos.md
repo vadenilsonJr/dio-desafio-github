@@ -16,4 +16,5 @@
 
 ## Módulo 3 - C# fundamental
 
- - Primeiros passos com .NET
+ - Primeiros passos com .NET:white_check_mark:
+ - Trabalhando com Tipos de Referência e Valor em C#:white_check_mark:
