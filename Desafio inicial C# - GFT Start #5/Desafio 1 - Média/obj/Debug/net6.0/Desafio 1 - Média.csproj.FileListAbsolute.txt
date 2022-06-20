@@ -1,0 +1,15 @@
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\bin\Debug\net6.0\Desafio 1 - Média.exe
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\bin\Debug\net6.0\Desafio 1 - Média.deps.json
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\bin\Debug\net6.0\Desafio 1 - Média.runtimeconfig.json
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\bin\Debug\net6.0\Desafio 1 - Média.dll
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\bin\Debug\net6.0\Desafio 1 - Média.pdb
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\obj\Debug\net6.0\Desafio 1 - Média.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\obj\Debug\net6.0\Desafio 1 - Média.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\obj\Debug\net6.0\Desafio 1 - Média.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\obj\Debug\net6.0\Desafio 1 - Média.AssemblyInfo.cs
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\obj\Debug\net6.0\Desafio 1 - Média.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\obj\Debug\net6.0\Desafio 1 - Média.dll
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\obj\Debug\net6.0\refint\Desafio 1 - Média.dll
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\obj\Debug\net6.0\Desafio 1 - Média.pdb
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\obj\Debug\net6.0\Desafio 1 - Média.genruntimeconfig.cache
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 1 - Média\obj\Debug\net6.0\ref\Desafio 1 - Média.dll
