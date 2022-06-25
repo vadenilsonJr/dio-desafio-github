@@ -1,0 +1,15 @@
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\bin\Debug\net6.0\Desafio 2 - Esfera.exe
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\bin\Debug\net6.0\Desafio 2 - Esfera.deps.json
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\bin\Debug\net6.0\Desafio 2 - Esfera.runtimeconfig.json
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\bin\Debug\net6.0\Desafio 2 - Esfera.dll
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\bin\Debug\net6.0\Desafio 2 - Esfera.pdb
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\obj\Debug\net6.0\Desafio 2 - Esfera.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\obj\Debug\net6.0\Desafio 2 - Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\obj\Debug\net6.0\Desafio 2 - Esfera.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\obj\Debug\net6.0\Desafio 2 - Esfera.AssemblyInfo.cs
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\obj\Debug\net6.0\Desafio 2 - Esfera.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\obj\Debug\net6.0\Desafio 2 - Esfera.dll
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\obj\Debug\net6.0\refint\Desafio 2 - Esfera.dll
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\obj\Debug\net6.0\Desafio 2 - Esfera.pdb
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\obj\Debug\net6.0\Desafio 2 - Esfera.genruntimeconfig.cache
+C:\workspace\dio-desafio-github\Desafio inicial C# - GFT Start #5\Desafio 2 - Esfera\obj\Debug\net6.0\ref\Desafio 2 - Esfera.dll
